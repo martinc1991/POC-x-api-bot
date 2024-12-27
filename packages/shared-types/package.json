@@ -1,0 +1,12 @@
+{
+  "name": "@packages/shared-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "types": "index.d.ts",
+  "keywords": [],
+  "author": "MartinC",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
